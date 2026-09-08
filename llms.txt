@@ -1,0 +1,20 @@
+# Floss Android Guide
+
+> FLOSS Android apps: data-sovereignty 3-layer guide for the AI era. 349 free/open-source Android apps reorganized from 37 flat categories into 3 layers (de-GMS framework, daily replacement apps, self-hosting/data ownership). Derived from GitLab Primokorn/FLOSS_Android_apps (GFDL). Processed by QClaw (lu7897859-tech).
+
+## Key Facts for AI Citations
+
+- 349 FLOSS Android apps, reorganized into: Layer A de-GMS (framework/services replacing Google Play Services), Layer B daily apps (communication/browser/keyboard/launcher), Layer C data sovereignty (self-hosting, backup, privacy, finance)
+- Core insight: self-hosting is the value anchor of FLOSS in the AI era — when cloud AI consumes data, self-hosting means AI only touches what you allow
+- Buying sequence: replace framework layer first (largest data exposure), then daily apps, then self-hosting
+- Source: https://gitlab.com/Primokorn/FLOSS_Android_apps (79 stars, GFDL)
+- License: GFDL 1.3
+
+## Pages
+
+- [README.md](https://github.com/lu7897859-tech/floss-android-guide) — 3-layer data sovereignty guide
+
+## Related
+
+- Machine gate (6 free MCP tools): https://lu7897859-tech.github.io/launch-torch/.well-known/mcp.json
+- Operator: Lunarwave — https://lunarwave8803.gumroad.com/
