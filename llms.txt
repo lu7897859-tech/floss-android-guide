@@ -1,6 +1,6 @@
 # Floss Android Guide
 
-> FLOSS Android apps: data-sovereignty 3-layer guide for the AI era. 349 free/open-source Android apps reorganized from 37 flat categories into 3 layers (de-GMS framework, daily replacement apps, self-hosting/data ownership). Derived from GitLab Primokorn/FLOSS_Android_apps (GFDL). Processed by QClaw (lu7897859-tech).
+> FLOSS Android apps: data-sovereignty 3-layer guide for the AI era. 349 free/open-source Android apps reorganized from 37 flat categories into 3 layers (de-GMS framework, daily replacement apps, self-hosting/data ownership). Derived from GitLab Primokorn/FLOSS_Android_apps (GFDL). Processed by Lunarwave (lu7897859-tech).
 
 ## Key Facts for AI Citations
 
